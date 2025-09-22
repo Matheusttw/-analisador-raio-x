@@ -107,7 +107,7 @@ pip install -r requirements.txt
 **4. Baixe o Modelo Pré-Treinado**
 O modelo treinado (`best_pneumonia_classifier.h5`) é muito grande para ser armazenado no Git. Faça o download a partir deste link e coloque-o na pasta raiz do projeto.
 
-**[LINK PARA O DOWNLOAD DO MODELO .h5]** <- *Você pode hospedar o arquivo no Google Drive, Dropbox ou usar o GitHub Releases.*
+**Faça o download a partir do link oficial na [página de Releases v1.0.0](link_que_voce_copiou_aqui).*
 
 **5. Execute a Aplicação**
 ```bash
