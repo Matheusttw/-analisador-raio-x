@@ -82,7 +82,7 @@ Siga os passos abaixo para executar a aplicação na sua máquina local.
 
 **1. Clone o Repositório**
 ```bash
-git clone [https://github.com/Matheusttw/analisador-raio-x.git](https://github.com/SEU-USUARIO/analisador-raio-x.git)
+git clone [https://github.com/Matheusttw/-analisador-raio-x.git](https://github.com/SEU-USUARIO/analisador-raio-x.git)
 cd analisador-raio-x
 ```
 
