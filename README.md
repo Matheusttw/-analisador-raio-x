@@ -82,7 +82,7 @@ Siga os passos abaixo para executar a aplicação na sua máquina local.
 
 **1. Clone o Repositório**
 ```bash
-git clone [https://github.com/Matheusttw/-analisador-raio-x.git](https://github.com/SEU-USUARIO/analisador-raio-x.git)
+git clone [https://github.com/Matheusttw/-analisador-raio-x.git](https://github.com/Matheusttw/-analisador-raio-x.git)
 cd analisador-raio-x
 ```
 
@@ -107,7 +107,7 @@ pip install -r requirements.txt
 **4. Baixe o Modelo Pré-Treinado**
 O modelo treinado (`best_pneumonia_classifier.h5`) é muito grande para ser armazenado no Git. Faça o download a partir deste link e coloque-o na pasta raiz do projeto.
 
-**Faça o download a partir do link oficial na [página de Releases v1.0.0](link_que_voce_copiou_aqui).*
+**Faça o download a partir do link oficial (https://github.com/Matheusttw/-analisador-raio-x/releases/download/v1.0.0/best_pneumonia_classifier.h5).*
 
 **5. Execute a Aplicação**
 ```bash
